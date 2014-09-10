@@ -13,3 +13,9 @@ C:\Users\dweerapurage\Documents\devs\FlaskWebTemplate\FlaskWebTemplate\obj\Debug
 C:\Users\dweerapurage\Documents\devs\FlaskWebTemplate\FlaskWebTemplate\ptvs_virtualenv_proxy.py
 C:\Users\dweerapurage\Documents\devs\FlaskWebTemplate\FlaskWebTemplate\obj\Debug\web.config
 C:\Users\dweerapurage\Documents\devs\FlaskWebTemplate\FlaskWebTemplate\obj\Debug\web.debug.config
+C:\Users\dweerapurage\Documents\devs\flask-login-alembic-template\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\dweerapurage\Documents\devs\flask-login-alembic-template\bin\AzureSetup.cfg
+C:\Users\dweerapurage\Documents\devs\flask-login-alembic-template\obj\Debug\deployment-updated-orig-prefix.txt
+C:\Users\dweerapurage\Documents\devs\flask-login-alembic-template\ptvs_virtualenv_proxy.py
+C:\Users\dweerapurage\Documents\devs\flask-login-alembic-template\obj\Debug\web.config
+C:\Users\dweerapurage\Documents\devs\flask-login-alembic-template\obj\Debug\web.debug.config

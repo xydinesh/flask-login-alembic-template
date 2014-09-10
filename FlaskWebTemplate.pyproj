@@ -17,8 +17,10 @@
     <PythonWsgiHandler>{StartupModule}.wsgi_app</PythonWsgiHandler>
     <Name>FlaskWebTemplate</Name>
     <RootNamespace>FlaskWebTemplate</RootNamespace>
-    <InterpreterId>{7a907d9d-9f61-443d-93b1-ced33b377e18}</InterpreterId>
-    <InterpreterVersion>2.7</InterpreterVersion>
+    <InterpreterId>
+    </InterpreterId>
+    <InterpreterVersion>
+    </InterpreterVersion>
     <PythonRunWebServerCommand>
     </PythonRunWebServerCommand>
     <PythonRunWebServerCommandArguments>
@@ -82,19 +84,6 @@
     <Content Include="templates\layout.html" />
     <Content Include="templates\login.html" />
     <Content Include="templates\signup.html" />
-  </ItemGroup>
-  <ItemGroup>
-    <Interpreter Include="env\">
-      <Id>{7a907d9d-9f61-443d-93b1-ced33b377e18}</Id>
-      <BaseInterpreter>{823478df-2bc6-3149-90e0-6f3e0282dc82}</BaseInterpreter>
-      <Version>2.7</Version>
-      <Description>env (Enthought Canopy (2.7 64-bit))</Description>
-      <InterpreterPath>Scripts\python.exe</InterpreterPath>
-      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
-      <LibraryPath>Lib\</LibraryPath>
-      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
-      <Architecture>Amd64</Architecture>
-    </Interpreter>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.Web.targets" />
   <!-- Specify pre- and post-build commands in the BeforeBuild and 
